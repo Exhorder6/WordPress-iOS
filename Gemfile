@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
 gem 'rake'
-gem 'cocoapods', '~> 1.10'
+gem 'cocoapods', '~> 1.11', '>= 1.11.3'
 gem 'xcpretty-travis-formatter'
 gem 'octokit', "~> 4.0"
-gem 'fastlane', "~> 2.174"
+gem 'fastlane', '~> 2.200', '>= 2.200.0'
 gem 'dotenv'
 gem 'commonmarker'
 
